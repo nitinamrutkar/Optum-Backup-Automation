@@ -36,7 +36,7 @@ IAM: This script requires that an IAM User or IAM Role be created with the follo
                 "ec2:DescribeVolumes",
                 "ec2:DescribeInstances"
                 "ec:CreateAMI",
-                "ec2:Delete AMI"
+                "ec2 deregister-image"
             ],
             "Resource": [
                 "*"
